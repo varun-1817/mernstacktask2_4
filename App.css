@@ -1,0 +1,11 @@
+table,th,td{ 
+
+    border: 2px solid black; 
+  
+     border-collapse: collapse; 
+  
+    
+  
+    } 
+  
+    .heading{ padding-left: 55px;padding-right: 45px;} 
